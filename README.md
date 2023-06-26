@@ -1,17 +1,17 @@
 !-- <p align="center">
-  <h3 align="center"> Aaron Her </h3>
+  <h3 align="center"> Camelia Her </h3>
 </p>
 -->
 
 <p align="center" style="font-size:50px;">
   <a href="https://github.com/jossy1101">
-    <img src=""  alt="Aaron Her" /></a>
+    <img src=""  alt="Camelia Her" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20Software%20Developer;4%2B%20Programming%20Experience;Excited%20to%20Learning%20New%20Things&center=true&width=440&height=45&pause=1000" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full=Stacl%20Software%20Developer;Excited%20to%20Learning%20New%20Things&center=true&width=440&height=45&pause=1000" /></a>
 </p>
 
 I am a Full stack software developer that would like to explore more of the tech industry and gain experiences as well great insight into developing applications using Python, and Rust.
