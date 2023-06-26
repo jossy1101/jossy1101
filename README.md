@@ -3,7 +3,7 @@
 </p>
 -->
 
-<p align="center" style="font-size:50px;">
+<p align="center" style="font-size:100px;">
   <a href="https://github.com/jossy1101">
     <img src=""  alt="Camelia Her" /></a>
 </p>
@@ -31,7 +31,5 @@ I am a Full stack software developer that would like to explore more of the tech
 
 <details>
   <summary><h3>My Programming Journey </h3></summary>
-  
-  My programming journey started with an introductory class to C++ in my first year, followed by the upcoming semester was learning Java and Android development. After that, I took a course to taught Python and Git as part of the curriculum, and applied software design patterns to my Python applications. By the end of my first year, I had developed my first full application in Python and was just starting my second year to learning data structures and algorithms.  Following up the next semester I took a discrete mathematics class taught as a programming class. Where I learned implementing graph theory, set theory, etc. Which in my third I learned much more emphasis such as shell scripting, automation, build environments, etc.
-  
+  First language I had learned was python, and after learning python ended up learning rust by a relative who was in college for Computer Science, and he showed me ruby, and I have been learning ruby along with Python, in my software development.
 </details>
