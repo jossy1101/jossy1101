@@ -16,12 +16,6 @@
 
 I am a Full stack software developer that would like to explore more of the tech industry and gain experiences as well great insight into developing applications using Python, and Rust.
 
-
-<p align="center">
-    <a href="https://github.com/SpinnerX/Portfolios_2023">
-    <img alt="Portfolios" title="Portfolios" src="https://custom-icon-badges.demolab.com/badge/-Portfolios-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
 ### 💻 Languages and Frameworks
 
 <img align="left" alt="Python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
